@@ -1,0 +1,24 @@
+div {
+  width: 256px;
+  height: 582px;
+  overflow: auto;
+  position: absolute;
+  top: 64px;
+  left: 576px;
+  text-align: center;
+  border: 2px solid black;
+  background-color: white;
+}
+
+.head {		
+text-align: center;			
+}
+li {
+text-align: left;
+width: 12em;
+margin-left: calc(50% - 6em);
+}
+
+#Specials {
+  display: none;
+}
